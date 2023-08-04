@@ -1,0 +1,20 @@
+{
+    "name": "Ban All",
+    "logo": "",
+    "keywords": [
+      "telegram",
+      "bot",
+      "Altron"
+    ],
+      "buildpacks": [{
+      "url": "heroku/python"
+    }],
+    "env": {
+        "SESSION": {
+            "value": ""
+        },
+        "SUDO_USERS": {
+            "value": ""
+        }
+    }
+  }
