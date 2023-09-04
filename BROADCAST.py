@@ -62,6 +62,6 @@ async def help_command(_, message: Message):
     await message.reply_text(help_text)
 
 M.start()
-print("Bot Started Successfully")
+print("™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍 𝗕𝗢𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗦𝗨𝗦𝗦𝗘𝗦𝗙𝗨𝗟𝗟𝗬")
 idle()
 M.stop()
